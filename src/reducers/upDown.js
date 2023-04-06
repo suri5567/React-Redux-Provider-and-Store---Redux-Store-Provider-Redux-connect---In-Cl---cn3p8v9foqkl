@@ -10,4 +10,4 @@ const changeTheNumber=(state=initialState,action)=>{
 
     }
 }
-export default changeTheNumber
+export default changeTheNumber;
